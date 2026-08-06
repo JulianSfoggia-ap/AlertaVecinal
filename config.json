@@ -1,0 +1,8 @@
+{
+  "apiBase": "https://brink-chemist-visiting.ngrok-free.dev/api/v1",
+  "socketBase": "https://brink-chemist-visiting.ngrok-free.dev",
+  "whatsapp": "5491122520360",
+  "email": "contacto@delsur.com",
+  "version": "1.0.0",
+  "contactoTexto": "Del Sur — Sistema de Seguridad"
+}
